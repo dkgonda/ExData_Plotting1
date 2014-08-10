@@ -1,3 +1,25 @@
+Project Assignment 1 Submission
+
+David Keith Gonda
+
+Submitted files:
+
+load_data.R : downloads project data file and creates "powerdata" data frame.
+
+If unzipped file is alredy present, skips download and unzip.
+
+If powerdata frame already exists in current workspace, skips re-creation of the data frame.
+
+plot1.R, plot2.R, plot3.R, plot4.R :
+
+R scripts for creating plots 1 thru 4.  
+
+All call load_data.R to acquire powerdata data (if not already present).
+
+plot1.png, plot2.png, plot3.png, plot4.png :
+
+submitted plots created by above R scripts.
+
 ## Introduction
 
 This assignment uses data from
