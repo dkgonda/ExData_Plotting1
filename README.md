@@ -20,6 +20,8 @@ plot1.png, plot2.png, plot3.png, plot4.png :
 
 submitted plots created by above R scripts.
 
+[note: image files submitted late; had created before, but first push to github repo had not suceeded]
+
 ## Introduction
 
 This assignment uses data from
